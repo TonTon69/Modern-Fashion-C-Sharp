@@ -1,0 +1,31 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.exe
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.exe
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.AddSP.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.AllSP.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.QLBanHang.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.ThongKe.resources
+D:\Đồ án website\Winform Project\Modern-Media-Player-UI-C-Sharp-master\PlayerUI\obj\Debug\PlayerUI.ThongTinKH.resources
